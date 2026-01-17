@@ -36,7 +36,7 @@ Ensure you are running a browser extension that takes UserScripts (see Prerequis
 
 Click on the Install Script button below to install this user script to your browser extension, then follow the instructions from your browser extension.
 
-[![Live Update Campaign Page Splash](./images/install-button.png)](https://github.com/FaithLilley/DnDBeyond-Live-Campaign/raw/master/ddb-live-campaign.user.js) 
+[![Live Update Campaign Page Splash](./images/install-button.png)](https://github.com/sueastside/DnDBeyond-Live-Campaign/raw/master/ddb-live-campaign.user.js) 
 
 ## 3. How to Use
 
